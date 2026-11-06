@@ -1,0 +1,52 @@
+state,census_region,access_group,recruiting_per_1000_cases,incidence_rate,sites_per_million,avg_chemo_payment
+Alabama,South,"Lower need, low access",13.7,437.2,792.5,15642.26
+Alaska,West,"Lower need, better served",51.3,441.8,2543.1,13733.31
+Arizona,West,"Lower need, low access",22.4,375.4,956.1,16632.53
+Arkansas,South,Underserved,17.7,473.4,895.6,17372.56
+California,West,"Lower need, low access",29.9,420.6,1275.3,25197.35
+Colorado,West,"Lower need, better served",49.3,385.6,2698.4,19530.04
+Connecticut,Northeast,"High need, better served",39.2,468.3,1573.1,22181.35
+Delaware,South,"High need, better served",43.3,480.0,2705.5,17281.00
+District of Columbia,South,"Lower need, better served",108.9,455.6,4553.9,27193.02
+Florida,South,Underserved,19.9,462.8,1037.2,17373.31
+Georgia,South,Underserved,17.6,471.0,910.8,19972.41
+Hawaii,West,"Lower need, better served",34.4,434.1,3099.1,18999.57
+Idaho,West,"Lower need, better served",54.2,436.1,1885.7,10396.21
+Illinois,Midwest,"High need, better served",56.9,477.2,2870.0,21362.28
+Indiana,Midwest,"Lower need, low access",16.8,451.9,1442.7,17173.90
+Iowa,Midwest,"High need, better served",48.9,511.9,3378.1,13976.18
+Kansas,Midwest,"Lower need, better served",42.0,453.5,4202.3,17558.16
+Kentucky,South,Underserved,21.0,530.5,1318.9,15632.94
+Louisiana,South,Underserved,15.9,514.2,1258.9,17462.86
+Maine,Northeast,Underserved,24.9,491.3,1461.8,13799.40
+Maryland,South,Underserved,31.2,466.1,1687.1,24921.76
+Massachusetts,Northeast,"Lower need, better served",36.1,430.9,1877.4,23646.21
+Michigan,Midwest,"Lower need, better served",52.4,455.3,3013.7,16901.16
+Minnesota,Midwest,"High need, better served",65.9,507.5,3544.0,21320.19
+Mississippi,South,Underserved,13.6,467.4,760.1,13406.08
+Missouri,Midwest,"High need, better served",50.7,471.9,2829.6,20963.60
+Montana,West,"Lower need, better served",80.0,438.8,6427.1,11731.26
+Nebraska,Midwest,"Lower need, better served",50.8,446.5,3028.4,19160.07
+Nevada,West,"Lower need, better served",37.0,400.8,2564.7,17801.07
+New Hampshire,Northeast,Underserved,15.5,484.9,1506.2,22511.36
+New Jersey,Northeast,Underserved,29.4,497.1,1287.1,20184.94
+New Mexico,West,"Lower need, low access",18.3,378.8,1100.8,13963.78
+New York,Northeast,"High need, better served",32.6,483.0,1527.6,23327.01
+North Carolina,South,Underserved,25.6,476.8,1513.4,22203.03
+North Dakota,Midwest,"Lower need, better served",68.5,443.6,3817.3,10974.40
+Ohio,Midwest,"High need, better served",38.8,478.5,2985.1,19909.52
+Oklahoma,South,Underserved,14.3,472.7,869.9,14345.28
+Oregon,West,"Lower need, better served",42.4,397.1,1906.8,20974.67
+Pennsylvania,Northeast,"Lower need, low access",32.1,461.3,1862.8,21264.71
+Rhode Island,Northeast,"Lower need, low access",23.9,456.7,1299.6,23024.57
+South Carolina,South,"Lower need, low access",24.2,455.1,1683.8,17709.44
+South Dakota,Midwest,"High need, better served",50.8,490.2,2742.0,14407.85
+Tennessee,South,Underserved,29.4,465.2,1508.1,18837.36
+Texas,South,"Lower need, low access",26.3,437.6,930.8,19291.95
+Utah,West,"Lower need, better served",33.0,442.8,1424.8,22622.42
+Vermont,Northeast,"High need, better served",33.5,461.9,2142.7,11862.62
+Virginia,South,"Lower need, low access",31.0,412.5,1032.8,21332.67
+Washington,West,"Lower need, better served",33.1,445.1,2282.2,18734.27
+West Virginia,South,Underserved,15.4,517.8,997.5,15240.90
+Wisconsin,Midwest,"High need, better served",67.2,494.5,3241.1,17401.59
+Wyoming,West,"Lower need, low access",16.3,403.7,1545.1,

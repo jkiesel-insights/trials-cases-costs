@@ -1,0 +1,11 @@
+phase,total_trials,active,completed,stopped_early,unknown,pct_stopped_early
+Early Phase 1,1664,534,529,308,293,18.5
+Phase 1,13328,2869,6783,2678,998,20.1
+Phase 1/2,7314,2048,2796,1563,907,21.4
+Phase 2,27014,6777,11783,4665,3789,17.3
+Phase 2/3,1267,393,402,168,304,13.3
+Phase 3,8489,2290,3909,1028,1262,12.1
+Phase 4,2199,389,1055,254,501,11.6
+Not applicable,22998,6630,10044,2133,4191,9.3
+Observational (no phase),22612,6437,9737,1489,4949,6.6
+Phase missing,8,2,5,1,0,12.5

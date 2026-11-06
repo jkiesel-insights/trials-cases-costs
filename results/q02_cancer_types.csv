@@ -1,0 +1,18 @@
+cancer_type,trials,pct_of_cancer_trials
+Breast,14549,13.6
+Lung,11763,11.0
+Colorectal,9358,8.7
+Leukemia,8795,8.2
+Head & neck,8487,7.9
+Lymphoma,8379,7.8
+Prostate,6502,6.1
+Brain & CNS,5683,5.3
+Stomach & esophageal,4917,4.6
+Liver,4152,3.9
+Pancreatic,3947,3.7
+Multiple myeloma,3731,3.5
+Ovarian,3696,3.4
+Cervical & uterine,3437,3.2
+Melanoma,3423,3.2
+Kidney,2606,2.4
+Bladder,1864,1.7

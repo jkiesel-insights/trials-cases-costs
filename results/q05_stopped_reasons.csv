@@ -1,0 +1,13 @@
+reason_category,trials,pct_of_stopped,terminated,withdrawn,suspended
+Low enrollment,5025,35.2,3837,1082,106
+Other / unclassified,1920,13.4,1199,639,82
+Sponsor or business decision,1675,11.7,1253,392,30
+No reason given,1575,11.0,1053,486,36
+Investigator or administrative,1043,7.3,600,399,44
+Funding,954,6.7,515,399,40
+Safety concerns,845,5.9,746,79,20
+Lack of efficacy,648,4.5,595,30,23
+Drug supply,244,1.7,159,69,16
+Design or protocol change,208,1.5,110,66,32
+COVID-19,97,0.7,49,35,13
+Study never started,53,0.4,2,49,2

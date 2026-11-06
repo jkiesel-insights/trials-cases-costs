@@ -1,0 +1,5 @@
+access_group,states,avg_cancer_rate,avg_open_sites_per_1000_cases
+"High need, better served",11,484.1,48.0
+"Lower need, better served",15,433.8,51.6
+"Lower need, low access",11,426.4,23.2
+Underserved,14,485.1,20.8
